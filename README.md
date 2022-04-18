@@ -1,0 +1,2 @@
+# Clinica
+Software de clinicas
